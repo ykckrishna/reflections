@@ -1,0 +1,2 @@
+After initialising we are able to set branch master
+Staging area helps you in grouping all files of the same logical commit
