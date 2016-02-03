@@ -1,0 +1,9 @@
+We can clearly see the difference between the two files.
+You can easliy access any version of the file, which help you
+in tracking the changes.
+Manual Commit:
+Pros; You can logically differentiate when to commit.
+Cons: Takes more time in thinking what to commit and what not to commit.
+Change in one file might not allow the whole system to work 
+git log- to see all the commits
+git diff- to see the difference between the commits
