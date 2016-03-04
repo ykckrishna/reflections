@@ -1,2 +1,3 @@
 After initialising we are able to set branch master
 Staging area helps you in grouping all files of the same logical commit
+Branches help in working on a new task without disturbing the old code and we can come back to old code if we do not like the changes
